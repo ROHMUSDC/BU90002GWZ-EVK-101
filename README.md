@@ -15,8 +15,7 @@
 
 ----
 ### Where to Purchase?
-* Digikey: http://www.digikey.com/product-detail/en/BU90002GWZ-EVK-101/BU90002GWZ-EVK-101-ND/4807763
-* Mouser: http://www.mouser.com/ProductDetail/ROHM-Semiconductor/BU90002GWZEVK-101/?qs=%2fha2pyFadujjhkpiSpAGjKjGEADue9G%252bVQoGgFL1UhyzU948dGQrwMhhknorVLzU
+* http://www.rohm.com/web/global/distribution/-/dinventory/BU90002GWZ-E2/sample/0
 
 ----
 ### DISCLAIMER
